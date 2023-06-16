@@ -1,7 +1,6 @@
 package com.levanov.pcshop.service.impl;
 
 
-
 import com.levanov.pcshop.entity.Laptop;
 import com.levanov.pcshop.repository.LaptopRepository;
 import com.levanov.pcshop.service.LaptopService;

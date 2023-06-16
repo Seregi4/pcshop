@@ -13,8 +13,8 @@ import java.util.Optional;
 @Service
 @Transactional
 public class DesktopServiceImpl implements DesktopService {
-@Autowired
-DesktopRepository desktopRepository;
+    @Autowired
+    DesktopRepository desktopRepository;
 
     @Override
     public Desktop save(Desktop desktop) {
